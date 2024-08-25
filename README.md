@@ -1,7 +1,13 @@
 # Group 6 ISDS2024
 Welcome to the repository for Group 6 of the Social Data Science course attended in the summer of 2024 at the University of Copenhagen.
 
-Our repository contains of 3 different notebooks.
+Our repository contains of 3 different notebooks to simplify navigation in our code.
+
+## Jupyter Notebooks:
+1. `x.ipynb` 
+
+2. `x.ipynb` 
+
 
 ## Group members:
 • Jacob Grenaa Vestergaard (gcb906)
