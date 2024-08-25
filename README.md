@@ -12,7 +12,7 @@ This repository contains four distinct Jupyter notebooks to facilitate easy navi
 
 3. `4_OLS_and_LASSO.ipynb`: This final notebook applies a Machine Learning framework (OLS and LASSO) to our collected data. The data used in this notebook is saved in the CSV file **data_final**.
 
-Please note that when attempting to scrape TripAdvisor, different advertisements may be encountered. We have stored our results, which were scraped on 23-08-2024. When trying to reproduce these results from scratch, you might encounter different ads, potentially leading to variations in the data. Additionally, as the website is regularly updated, the list of restaurants may change, with some being added, removed, or updated. To replicate our results accurately, we recommend using our pre-saved data.
+Please note that when attempting to scrape TripAdvisor, different advertisements may be encountered. We have stored our results, which were scraped on 23-08-2024. When trying to reproduce these results from scratch, you might encounter different ads, potentially leading to variations in the data. Additionally, as the website is regularly updated, the list of restaurants may change, with some being added or removed, essentially changing what data is collected. To replicate our results accurately, we recommend using our pre-saved data.
 
 ## Group members:
 • Jacob Grenaa Vestergaard (gcb906)
