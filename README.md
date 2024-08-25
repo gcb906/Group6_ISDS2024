@@ -1,7 +1,7 @@
 # Group 6 ISDS2024
 Welcome to the repository for Group 6 from the Social Data Science course held in the summer of 2024 at the University of Copenhagen.
 
-This repository contains four distinct Jupyter notebooks to facilitate easy navigation through our code.
+This repository contains four distinct Jupyter Notebooks to facilitate easy navigation through our code.
 
 ## Jupyter Notebooks:
 1. `1_Weather_data_api.ipynb`: This notebook focuses on gathering weather data from DMI. The resulting data is saved in the CSV file **weather_data_final**.
