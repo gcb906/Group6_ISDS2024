@@ -4,10 +4,13 @@ Welcome to the repository for Group 6 of the Social Data Science course attended
 Our repository contains of 3 different notebooks to simplify navigation in our code.
 
 ## Jupyter Notebooks:
-1. `x.ipynb` 
+1. `1_Weather_data_api.ipynb` is our first notebook, which focuses on gathering weather data from DMI. Data from this Notebook is saved in the CSV file **weather_data_final**.
 
-2. `x.ipynb` 
+2. `2_Web_scrapping.ipynb` is our second notebook, which focuses on web scrapping TripAdvisor for customer ratings. Data from this Notebook is saved in the CSV file **ratings_final**.
 
+3. `3_OLS_and_LASSO.ipynb` is our third and final notebook, which implements a Machine Learning framework on our collected data. Data applied in this Notebook is saved in the CSV file **data_final**.
+
+Please note that when trying to scrape TripAdvisor, computers encounters different advertisments. We have store our results which was scraped the 23-08-2024. When trying to reproduce the results from scratch, one might encounter different ads, thus resulting in different data. To replciate our results, we recommend using our already saved data.
 
 ## Group members:
 • Jacob Grenaa Vestergaard (gcb906)
