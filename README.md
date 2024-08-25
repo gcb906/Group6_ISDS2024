@@ -5,5 +5,7 @@ Our repository contains of 3 different notebooks.
 
 ## Group members:
 • Jacob Grenaa Vestergaard (gcb906)
+
 • Jeppe Harbo Vanderhaegen (wlr139)
+
 • Emil Henry Erbas (Kommer)
