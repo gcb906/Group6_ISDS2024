@@ -8,7 +8,7 @@ This repository contains four distinct Jupyter notebooks to facilitate easy navi
 
 2. `2_Web_scrapping.ipynb`: This notebook centers on web scraping TripAdvisor for customer ratings. The collected data is saved in the CSV file **ratings_final**.
 
-3. `3_Descriptive_statistics.ipynb`: This notebook briefly showcases and present all data collected.
+3. `3_Descriptive_statistics.ipynb`: This notebook briefly explains all data collected.
 
 3. `4_OLS_and_LASSO.ipynb`: This final notebook applies a Machine Learning framework (OLS and LASSO) to our collected data. The data used in this notebook is saved in the CSV file **data_final**.
 
