@@ -17,4 +17,4 @@ Please note that when attempting to scrape TripAdvisor, different advertisements
 
 • Jeppe Harbo Vanderhaegen (wlr139)
 
-• Emil Henry Erbas (Kommer)
+• Emil Henry Erbas (rmj923)
