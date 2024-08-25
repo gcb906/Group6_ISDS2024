@@ -10,7 +10,7 @@ Our repository contains of 3 different notebooks to simplify navigation in our c
 
 3. `3_OLS_and_LASSO.ipynb` is our third and final notebook, which implements a Machine Learning framework on our collected data. Data applied in this Notebook is saved in the CSV file **data_final**.
 
-Please note that when trying to scrape TripAdvisor, computers encounters different advertisments. We have store our results which was scraped the 23-08-2024. When trying to reproduce the results from scratch, one might encounter different ads, thus resulting in different data. To replciate our results, we recommend using our already saved data.
+Please note that when attempting to scrape TripAdvisor, different advertisements may be encountered. We have stored our results, which were scraped on 23-08-2024. When trying to reproduce these results from scratch, you might encounter different ads, potentially leading to variations in the data. To replicate our results accurately, we recommend using our pre-saved data.
 
 ## Group members:
 • Jacob Grenaa Vestergaard (gcb906)
